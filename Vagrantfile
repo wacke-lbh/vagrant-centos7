@@ -76,6 +76,6 @@ Vagrant.configure(2) do |config|
 
 
   config.ssh.username = 'root'
-  config.ssh.password = 'admin@@Ok'
+  config.ssh.password = 'password'
   config.ssh.insert_key = 'true'
 end
